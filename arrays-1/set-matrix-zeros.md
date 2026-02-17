@@ -1,9 +1,12 @@
 ## Set Matrix Zeroes
-**PROBLEM:** Given an `m x n` integer matrix, if an element is 0, set its entire row and column to 0's.
+`Medium`
+
+**PROBLEM:**
+Given an `m x n` integer matrix, if an element is 0, set its entire row and column to 0's.
 You must do it in place.
 
 **SOLUTION:**
-A) without doing in place
+**A) without doing in place**
  - using a map to store row where zero found and similarly for column where the zero was found
 Complexities:
 Space: O(n + m)
@@ -16,7 +19,7 @@ class Solution {
         Set<Integer> rows = new HashSet<>();
         Set<Integer> cols = new HashSet<>();
 
-        // take a not of column and row where 0 were found
+        // take a note of column and row where 0 were found
         for (int i = 0; i < matrix.length; i++)
         for (int j = 0; j < matrix[0].length; j++)
         if (matrix[i][j] == 0) {
@@ -36,7 +39,7 @@ class Solution {
 }
 ```
 
-A) Doing in place
+**B) Doing in place**
     - we are going to traverse the matrix twice for (i) marking rows, cols which has zeros and (ii) replacing
     the non-zero values.
     - we will be using first column as a marker and place a zero for each row if there is a zero found in row

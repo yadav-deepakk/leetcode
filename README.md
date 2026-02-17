@@ -1,23 +1,23 @@
 ## Striver SDE Sheet
 
 **Arrays - I**
-- [ ] [Set Matrix Zeros](./arrays/set-matrix-zeros.md)  [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/description/)
-- [ ] [Pascals Triangle]()
+- [X] [Set Matrix Zeros](./arrays/set-matrix-zeros.md) [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [X] [Pascals Triangle](./arrays/pascals-triangle.md) [ [leetcode link ] ](https://leetcode.com/problems/pascals-triangle/description/)
 - [ ] [Next Permutation]()
 - [ ] [Kadane's Algorithm]()
 - [ ] [Sort an Array of 0's, 1's and 2's]()
 - [ ] [Stock Buy and Sell]()
 
 **Arrays - II**
-- [ ] [Rotate Matrix by 90 Degree]()
+- [ ] [Rotate Matrix By 90 Degree]()
 - [ ] [Merge Overlapping Subintervals]()
 - [ ] [Merge Two Sorted Arrays Without Extra Space]()
-- [ ] [Find the Duplicate Number]()
-- [ ] [Find the Repeating and Missing Number]()
-- [ ] [Invertion of Array - pre-requisite is Merge Sort]()
+- [ ] [Find The Duplicate Number]()
+- [ ] [Find The Repeating And Missing Number]()
+- [ ] [Invertion of Array - Pre-Requisite Is Merge Sort]()
 
 **Arrays - III**
-- [ ] [Search in 2D Matrix]()
+- [ ] [Search In 2D Matrix]()
 - [ ] [Pow(x,n)]()
 - [ ] [Majority Element - I]()
 - [ ] [Majority Element - II]()
@@ -27,34 +27,34 @@
 **Arrays - IV**
 - [ ] [2 Sum]()
 - [ ] [4 Sum]()
-- [ ] [Longest Consecutive Sequence In an Array]()
+- [ ] [Longest Consecutive Sequence In An Array]()
 - [ ] [Largest Subarray With K Sum]()
-- [ ] [Count subarray with given xor k]()
+- [ ] [Count Subarray With Given XOR K]()
 - [ ] [Longest Substring Without Repeating Characters]()
 
 **LinkedList - I**
-- [ ] [Reverse a Linked List]()
-- [ ] [Find Middle of Linked List]()
+- [ ] [Reverse A Linked List]()
+- [ ] [Find Middle Of Linked List]()
 - [ ] [Merge 2 Sorted Linked List]()
-- [ ] [Remove the Nth Node in Linked List from last]()
-- [ ] [Add 2 Numbers as Linked List]()
-- [ ] [Delete Node In a Linked List - O(1)]()
+- [ ] [Remove the Nth Node In Linked List From Last]()
+- [ ] [Add 2 Numbers As Linked List]()
+- [ ] [Delete Node In A Linked List - O(1)]()
 
 **LinkedList - II**
-- [ ] [Find Intersection of Point Y in Linked List]()
-- [ ] [Detect a Loop in Linked List]()
+- [ ] [Find Intersection Of Point Y In Linked List]()
+- [ ] [Detect A Loop In Linked List]()
 - [ ] [Reverse Linked List Given size K]()
-- [ ] [Check if Linked List is Palindrome or not]()
-- [ ] [Find Starting Point in Linked List]()
-- [ ] [Flattening of Linked List]()
+- [ ] [Check If Linked List Is Palindrome OR Not]()
+- [ ] [Find Starting Point In Linked List]()
+- [ ] [Flattening Of Linked List]()
 
 **LinkedList and Arrays**
-- [ ] [Rotate a Linked List]()
-- [ ] [Clone a Linked List with Random and Next Pointer]()
+- [ ] [Rotate A Linked List]()
+- [ ] [Clone A Linked List With Random And Next Pointer]()
 - [ ] [3 Sum]()
-- [ ] [Trapping rainwater]()
-- [ ] [Removing Duplicates from sorted Array]()
-- [ ] [Maximum consecutive Ones]()
+- [ ] [Trapping Rainwater]()
+- [ ] [Removing Duplicates From Sorted Array]()
+- [ ] [Maximum Consecutive Ones]()
 
 **Greedy Algorithms**
 
