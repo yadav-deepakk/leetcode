@@ -1,12 +1,12 @@
 ## Striver SDE Sheet
 
 **Arrays - I**
-- [X] [Set Matrix Zeros](./arrays/set-matrix-zeros.md) [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/description/)
-- [X] [Pascals Triangle](./arrays/pascals-triangle.md) [ [leetcode link ] ](https://leetcode.com/problems/pascals-triangle/description/)
-- [ ] [Next Permutation]()
+- [X] [Set Matrix Zeros](./arrays-1/set-matrix-zeros.md) [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/description/)
+- [X] [Pascals Triangle](./arrays-1/pascals-triangle.md) [ [Leetcode link ] ](https://leetcode.com/problems/pascals-triangle/description/)
+- [ ] [Next Permutation]() [ [Leetcode link] ](https://leetcode.com/problems/next-permutation/description/)
 - [ ] [Kadane's Algorithm]()
-- [ ] [Sort an Array of 0's, 1's and 2's]()
-- [ ] [Stock Buy and Sell]()
+- [X] [Sort an Array of 0's, 1's and 2's](./arrays-1/sort-0s-1s-2s.md) [ [Leetcode ] ](https://leetcode.com/problems/sort-colors/description/)
+- [X] [Stock Buy and Sell](./arrays-1/stock-buy-sell-1.md) [ [leetcode link] ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 **Arrays - II**
 - [ ] [Rotate Matrix By 90 Degree]()
