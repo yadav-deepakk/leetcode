@@ -5,11 +5,11 @@
 - [X] [Pascals Triangle](./arrays-1/pascals-triangle.md) [ [Leetcode link ] ](https://leetcode.com/problems/pascals-triangle/description/)
 - [ ] [Next Permutation]() [ [Leetcode link] ](https://leetcode.com/problems/next-permutation/description/)
 - [ ] [Kadane's Algorithm]()
-- [X] [Sort an Array of 0's, 1's and 2's](./arrays-1/sort-0s-1s-2s.md) [ [Leetcode ] ](https://leetcode.com/problems/sort-colors/description/)
-- [X] [Stock Buy and Sell](./arrays-1/stock-buy-sell-1.md) [ [leetcode link] ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Sort an Array of 0's, 1's and 2's](./arrays-1/sort-0s-1s-2s.md) [ [Leetcode link] ](https://leetcode.com/problems/sort-colors/description/)
+- [X] [Stock Buy and Sell](./arrays-1/stock-buy-sell-1.md) [ [Leetcode link] ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 **Arrays - II**
-- [ ] [Rotate Matrix By 90 Degree]()
+- [X] [Rotate Matrix By 90 Degree](./arrays-2/rotate-image-matrix2D-by-90-deg.md) [ [Leetcode link ] ](https://leetcode.com/problems/rotate-image/)
 - [ ] [Merge Overlapping Subintervals]()
 - [ ] [Merge Two Sorted Arrays Without Extra Space]()
 - [ ] [Find The Duplicate Number]()
