@@ -1,4 +1,4 @@
-## Striver SDE Sheet
+## Striver's Sheet
 
 **Arrays - I**
 - [X] [Set Matrix Zeros](./arrays-1/set-matrix-zeros.md) [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/description/)
@@ -10,9 +10,9 @@
 
 **Arrays - II**
 - [X] [Rotate Matrix By 90 Degree](./arrays-2/rotate-image-matrix2D-by-90-deg.md) [ [Leetcode link ] ](https://leetcode.com/problems/rotate-image/)
-- [ ] [Merge Overlapping Subintervals]()
-- [ ] [Merge Two Sorted Arrays Without Extra Space]()
-- [ ] [Find The Duplicate Number]()
+- [ ] [Merge Overlapping Subintervals](./arrays-2/merge-overlapping-intervals.md) [ [Leetcode link ] ](https://leetcode.com/problems/merge-intervals/description/)
+- [X] [Merge Two Sorted Arrays Without Extra Space](./arrays-2/merge-sorted-array.md) [ [Leetcode link] ](https://leetcode.com/problems/merge-sorted-array/description/)
+- [X] [Find The Duplicate Number](./arrays-2/find-duplicate-number.md) [ [Leetcode link] ](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [Find The Repeating And Missing Number]()
 - [ ] [Invertion of Array - Pre-Requisite Is Merge Sort]()
 
@@ -21,7 +21,7 @@
 - [ ] [Pow(x,n)]()
 - [ ] [Majority Element - I]()
 - [ ] [Majority Element - II]()
-- [ ] [Grid Unique Paths]()
+- [X] [Grid Unique Paths]() [ [Leetcode link] ](https://leetcode.com/problems/unique-paths/)
 - [ ] [Reverse Pairs]()
 
 **Arrays - IV**
