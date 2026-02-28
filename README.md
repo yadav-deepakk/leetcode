@@ -17,15 +17,15 @@
 - [ ] [Invertion of Array - Pre-Requisite Is Merge Sort]()
 
 **Arrays - III**
-- [ ] [Search In 2D Matrix]()
+- [ ] [Search In 2D Matrix](./arrays-3/search-in-2D-matrix.md) [ [Leetcode Link] ](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] [Pow(x,n)]()
 - [ ] [Majority Element - I]()
 - [ ] [Majority Element - II]()
-- [X] [Grid Unique Paths]() [ [Leetcode link] ](https://leetcode.com/problems/unique-paths/)
+- [X] [Grid Unique Paths](./arrays-3/unique-paths.md) [ [Leetcode link] ](https://leetcode.com/problems/unique-paths/)
 - [ ] [Reverse Pairs]()
 
 **Arrays - IV**
-- [ ] [2 Sum]()
+- [X] [2 Sum](./arrays-4/2-sum.md) [ [Leetcode Link] ](https://leetcode.com/problems/two-sum/description/)
 - [ ] [4 Sum]()
 - [ ] [Longest Consecutive Sequence In An Array]()
 - [ ] [Largest Subarray With K Sum]()
