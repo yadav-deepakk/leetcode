@@ -1,31 +1,31 @@
 ## Striver's Sheet
 
 **Arrays - I**
-- [X] [Set Matrix Zeros](./arrays-1/set-matrix-zeros.md) [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/description/)
-- [X] [Pascals Triangle](./arrays-1/pascals-triangle.md) [ [Leetcode link ] ](https://leetcode.com/problems/pascals-triangle/description/)
-- [ ] [Next Permutation]() [ [Leetcode link] ](https://leetcode.com/problems/next-permutation/description/)
+- [X] [Set Matrix Zeros](./arrays-1/set-matrix-zeros.md) [ [Leetcode link] ](https://leetcode.com/problems/set-matrix-zeroes/)
+- [X] [Pascals Triangle](./arrays-1/pascals-triangle.md) [ [Leetcode link ] ](https://leetcode.com/problems/pascals-triangle/)
+- [ ] [Next Permutation]() [ [Leetcode link] ](https://leetcode.com/problems/next-permutation/)
 - [ ] [Kadane's Algorithm]()
-- [X] [Sort an Array of 0's, 1's and 2's](./arrays-1/sort-0s-1s-2s.md) [ [Leetcode link] ](https://leetcode.com/problems/sort-colors/description/)
+- [X] [Sort an Array of 0's, 1's and 2's](./arrays-1/sort-0s-1s-2s.md) [ [Leetcode link] ](https://leetcode.com/problems/sort-colors/)
 - [X] [Stock Buy and Sell](./arrays-1/stock-buy-sell-1.md) [ [Leetcode link] ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
 **Arrays - II**
 - [X] [Rotate Matrix By 90 Degree](./arrays-2/rotate-image-matrix2D-by-90-deg.md) [ [Leetcode link ] ](https://leetcode.com/problems/rotate-image/)
-- [ ] [Merge Overlapping Subintervals](./arrays-2/merge-overlapping-intervals.md) [ [Leetcode link ] ](https://leetcode.com/problems/merge-intervals/description/)
-- [X] [Merge Two Sorted Arrays Without Extra Space](./arrays-2/merge-sorted-array.md) [ [Leetcode link] ](https://leetcode.com/problems/merge-sorted-array/description/)
+- [ ] [Merge Overlapping Subintervals](./arrays-2/merge-overlapping-intervals.md) [ [Leetcode link ] ](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Two Sorted Arrays Without Extra Space](./arrays-2/merge-sorted-array.md) [ [Leetcode link] ](https://leetcode.com/problems/merge-sorted-array/)
 - [X] [Find The Duplicate Number](./arrays-2/find-duplicate-number.md) [ [Leetcode link] ](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [Find The Repeating And Missing Number]()
 - [ ] [Invertion of Array - Pre-Requisite Is Merge Sort]()
 
 **Arrays - III**
-- [ ] [Search In 2D Matrix](./arrays-3/search-in-2D-matrix.md) [ [Leetcode Link] ](https://leetcode.com/problems/search-a-2d-matrix/)
-- [ ] [Pow(x,n)]()
-- [ ] [Majority Element - I]()
+- [X] [Search In 2D Matrix](./arrays-3/search-in-2D-matrix.md) [ [Leetcode link] ](https://leetcode.com/problems/search-a-2d-matrix/)
+- [X] [Pow(x,n)](./arrays-3/power-x-raised-to-n.md) [ [Leetcode link] ](https://leetcode.com/problems/powx-n/)
+- [X] [Majority Element - I](./arrays-3/majority-element-1.md) [ [Leetcode link] ](https://leetcode.com/problems/majority-element/)
 - [ ] [Majority Element - II]()
 - [X] [Grid Unique Paths](./arrays-3/unique-paths.md) [ [Leetcode link] ](https://leetcode.com/problems/unique-paths/)
 - [ ] [Reverse Pairs]()
 
 **Arrays - IV**
-- [X] [2 Sum](./arrays-4/2-sum.md) [ [Leetcode Link] ](https://leetcode.com/problems/two-sum/description/)
+- [X] [2 Sum](./arrays-4/2-sum.md) [ [Leetcode Link] ](https://leetcode.com/problems/two-sum/)
 - [ ] [4 Sum]()
 - [ ] [Longest Consecutive Sequence In An Array]()
 - [ ] [Largest Subarray With K Sum]()
