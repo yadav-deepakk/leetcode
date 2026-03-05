@@ -20,7 +20,7 @@
 - [X] [Search In 2D Matrix](./arrays-3/search-in-2D-matrix.md) [ [Leetcode link] ](https://leetcode.com/problems/search-a-2d-matrix/)
 - [X] [Pow(x,n)](./arrays-3/power-x-raised-to-n.md) [ [Leetcode link] ](https://leetcode.com/problems/powx-n/)
 - [X] [Majority Element - I](./arrays-3/majority-element-1.md) [ [Leetcode link] ](https://leetcode.com/problems/majority-element/)
-- [ ] [Majority Element - II]()
+- [X] [Majority Element - II](./arrays-3/majority-element-2.md) [ [Leetcode link] ](https://leetcode.com/problems/majority-element-ii/)
 - [X] [Grid Unique Paths](./arrays-3/unique-paths.md) [ [Leetcode link] ](https://leetcode.com/problems/unique-paths/)
 - [ ] [Reverse Pairs]()
 
